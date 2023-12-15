@@ -11,5 +11,8 @@
     "url": "https://github.com/Ealbertoschianni/Node_Project.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
 }
